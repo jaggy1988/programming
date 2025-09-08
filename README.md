@@ -15,3 +15,7 @@ make a commit in readme.md and create a new branch
 testing a commit from my macbook
 
 git push origin master -- from macbook
+
+Install in vscode and start pushing the code to repository
+
+test  readme
