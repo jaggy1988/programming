@@ -1,21 +1,8 @@
-# programming
+My name is Jagatheesh. I live in Colorado USA.
 
-This project reflects the learning that Jaggy will be making starting from the year 2025
+I'm currently learning python.
+I'm making progress in creating codes and maintaining them in remote code repository such as git hub. Im learning to reuse and organize the codes for usability.
 
-Goal for the year 2025
-
-create a new project and learn version control using git and git hub
-
-faced an issue with the preview tab of github in safari browser.
-
-
-
-make a commit in readme.md and create a new branch
-
-testing a commit from my macbook
-
-git push origin master -- from macbook
-
-Install in vscode and start pushing the code to repository
-
-test  readme
+Network device can be configured using programming language. 
+I'm interested in learning how to configure Network devices securely and push the configuration to several devices at once.
+Vendor neutral devices are currenly in boom and i love creating new things.
