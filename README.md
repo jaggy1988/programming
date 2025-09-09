@@ -19,3 +19,12 @@ git push origin master -- from macbook
 Install in vscode and start pushing the code to repository
 
 test  readme
+
+Process to perform git
+----------------------
+git add --all
+git commit -m "{}"
+git push origin
+
+
+git clone repo
