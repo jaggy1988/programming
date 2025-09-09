@@ -4,7 +4,7 @@ ios_xe1 = {
              "restconf_port": 9443,
              "ssh_port": 8181,
              "username": "root",
-             "password": "D_Vay!_10&",
+             "password": "",
              "device_type": "cisco_ios"
           }
 
@@ -15,6 +15,6 @@ nxos1 = {
              "restconf_port": 443,
              "ssh_port": 818122,
              "username": "admin",
-             "password": "Admin_1234!",
+             "password": "",
              "device_type": "cisco_nxos"
           }
