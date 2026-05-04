@@ -29,7 +29,7 @@ with ConnectHandler(ip = device["address"],
 print(interface)
 
 
-Hostname = "Jagatheesh#"
+Hostname = "Routername#"
 Print_Str = My_function(Hostname)
 print (Print_Str)
 print ("End of the program")
